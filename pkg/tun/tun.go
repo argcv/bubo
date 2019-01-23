@@ -1,4 +1,4 @@
-package cli
+package tun
 
 import (
 	"github.com/argcv/picidae/pkg/msg"

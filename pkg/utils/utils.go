@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/argcv/webeh/log"
+	"github.com/argcv/stork/log"
 	"runtime"
 )
 
